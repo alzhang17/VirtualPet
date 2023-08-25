@@ -5,6 +5,7 @@ void setup()
 
 void draw()
 {
+  background(#d4faf7);
   noFill();
   strokeWeight(10);
   beginShape();
